@@ -5,3 +5,10 @@ D:\git\ProjektKonsola\ProjektKonsola\ProjektKonsola\obj\Debug\ProjektKonsola.csp
 D:\git\ProjektKonsola\ProjektKonsola\ProjektKonsola\obj\Debug\ProjektKonsola.csproj.CoreCompileInputs.cache
 D:\git\ProjektKonsola\ProjektKonsola\ProjektKonsola\obj\Debug\ProjektKonsola.exe
 D:\git\ProjektKonsola\ProjektKonsola\ProjektKonsola\obj\Debug\ProjektKonsola.pdb
+C:\Users\ksian\Source\Repos\Selenium\ProjektKonsola\ProjektKonsola\ProjektKonsola\bin\Debug\ProjektKonsola.exe.config
+C:\Users\ksian\Source\Repos\Selenium\ProjektKonsola\ProjektKonsola\ProjektKonsola\bin\Debug\ProjektKonsola.exe
+C:\Users\ksian\Source\Repos\Selenium\ProjektKonsola\ProjektKonsola\ProjektKonsola\bin\Debug\ProjektKonsola.pdb
+C:\Users\ksian\Source\Repos\Selenium\ProjektKonsola\ProjektKonsola\ProjektKonsola\obj\Debug\ProjektKonsola.csprojAssemblyReference.cache
+C:\Users\ksian\Source\Repos\Selenium\ProjektKonsola\ProjektKonsola\ProjektKonsola\obj\Debug\ProjektKonsola.csproj.CoreCompileInputs.cache
+C:\Users\ksian\Source\Repos\Selenium\ProjektKonsola\ProjektKonsola\ProjektKonsola\obj\Debug\ProjektKonsola.exe
+C:\Users\ksian\Source\Repos\Selenium\ProjektKonsola\ProjektKonsola\ProjektKonsola\obj\Debug\ProjektKonsola.pdb
