@@ -1,0 +1,7 @@
+D:\git\Selenium\KopiaKonsola\Selenium\ProjektKonsola\ProjektKonsola\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\git\Selenium\KopiaKonsola\Selenium\ProjektKonsola\ProjektKonsola\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\git\Selenium\KopiaKonsola\Selenium\ProjektKonsola\ProjektKonsola\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\git\Selenium\KopiaKonsola\Selenium\ProjektKonsola\ProjektKonsola\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\git\Selenium\KopiaKonsola\Selenium\ProjektKonsola\ProjektKonsola\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\git\Selenium\KopiaKonsola\Selenium\ProjektKonsola\ProjektKonsola\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\git\Selenium\KopiaKonsola\Selenium\ProjektKonsola\ProjektKonsola\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
